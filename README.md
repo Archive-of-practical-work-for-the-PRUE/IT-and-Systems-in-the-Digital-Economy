@@ -4,9 +4,15 @@
 
 1 семестр:
 
-* Задание 1 - Импорт (парсинг) табличных и нетабличных данных из Интернета
-* Задание 2 - Импорт из Интернета  .csv файлов и их преобразование
-* Задание 3 - Искусственные нейронные сети. Обучение нейросети
+* Задание 1 - [Импорт (парсинг) табличных и нетабличных данных из Интернета](https://github.com/Archive-of-practical-work-for-the-PRUE/IT-and-Systems-in-the-Digital-Economy)
+* Задание 2 - [Импорт из Интернета  .csv файлов и их преобразование](https://github.com/Archive-of-practical-work-for-the-PRUE/IT-and-Systems-in-the-Digital-Economy)
+* Задание 3 - [Искусственные нейронные сети. Обучение нейросети](https://github.com/Archive-of-practical-work-for-the-PRUE/IT-and-Systems-in-the-Digital-Economy)
+* Задание 4 - [Python и нейронные сети](https://github.com/Archive-of-practical-work-for-the-PRUE/IT-and-Systems-in-the-Digital-Economy/tree/python)
+* Задание 5 - Разметка данных (data labelling) с помощью SuperAnnotate
+* Задание 6 - Работа с изображениями и их детекция с помощью OpenCV
+* Задание 7 - Нейросеть с обучением – задача классификации
+* Задание 8 - Машинное обучение с помощью Weka
+* Задание 9 - Онлайн эмулятор электронных схем Wokwi
 
 ## Сведения о студенте
 
